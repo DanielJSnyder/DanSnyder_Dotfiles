@@ -6,11 +6,10 @@ call vundle#begin()
 
 Plugin 'VundleVim/Vundle.vim'
 
-Plugin 'Valloric/YouCompleteMe'
 Plugin 'scrooloose/syntastic'
 
 Plugin 'lukerandall/haskellmode-vim'
-
+Plugin 'Valloric/YouCompleteMe'
 call vundle#end()
 filetype plugin on
 filetype indent off
